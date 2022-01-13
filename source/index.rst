@@ -1,10 +1,10 @@
-Replace this with your project title
-====================================
+Data Analysis
+=============
 
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
 
-   subject/index
+   week01/index
    another_subject/index
-   more_stuff/index
+   example/index
