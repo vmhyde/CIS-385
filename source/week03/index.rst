@@ -54,7 +54,7 @@ this particular view/filter.
 .. image:: dashboard.png
    :width: 50%
 
-*Website Used:* `hyperlink <https://api.arcade.academy/en/latest/>`_
+*Website Used:* `Arcade Academy <https://api.arcade.academy/en/latest/>`_
 
 Exercises & Assessments (2 Hours)
 --------------------------------------------
@@ -68,10 +68,10 @@ add, copy, and remove filters for different properties.
 
 Reading, Videos, & Additional Research (4 Hours)
 -------------------------------------------------
-1. Google Analytics Course Content (`hyperlink <https://analytics.google.com/analytics/academy/course/6/unit/1/lesson/1>`_)
-2. YouTube (`hyperlink <https://measureschool.com/google-tag-manager-vs-global-site-tag/>`_)
-3. Blog (`hyperlink <https://blog.hootsuite.com/how-to-set-up-google-analytics/>`_)
-4. Article (`hyperlink <https://chartio.com/learn/marketing-analytics/how-to-add-google-analytics-tracking-to-a-website/>`_)
+1. Google Analytics Course Content (`Google Analytics Course <https://analytics.google.com/analytics/academy/course/6/unit/1/lesson/1>`_)
+2. YouTube (`Measure School <https://measureschool.com/google-tag-manager-vs-global-site-tag/>`_)
+3. Blog (`Hootsuite <https://blog.hootsuite.com/how-to-set-up-google-analytics/>`_)
+4. Article (`Chartio <https://chartio.com/learn/marketing-analytics/how-to-add-google-analytics-tracking-to-a-website/>`_)
 
 
 Documentation, Organization and Final Review of Content (1 hour)
