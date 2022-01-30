@@ -37,12 +37,12 @@ Added Property:
 Added Multiple Views:
 ---------------------
 
-.. image:: views.jpg
+.. image:: views.png
    :width: 50%
 
 Added Global Tag to HTML
 -------------------------
-.. image:: globaltag.jpg
+.. image:: globaltag.png
    :width: 50%
 
 **Dashboard Result: Need Review/Assistance**
@@ -72,7 +72,7 @@ Reading, Videos, & Additional Research (4 Hours)
 2. YouTube (`Measure School <https://measureschool.com/google-tag-manager-vs-global-site-tag/>`_)
 3. Blog (`Hootsuite <https://blog.hootsuite.com/how-to-set-up-google-analytics/>`_)
 4. Article (`Chartio <https://chartio.com/learn/marketing-analytics/how-to-add-google-analytics-tracking-to-a-website/>`_)
-
+5. Restructured Text Reading (`Sphinx <https://www.sphinx-doc.org/en/master/usage/restructuredtext/basics.html#>`_)
 
 Documentation, Organization and Final Review of Content (1 hour)
 ----------------------------------------------------------------
