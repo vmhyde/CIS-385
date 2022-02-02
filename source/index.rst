@@ -6,5 +6,5 @@ Data Analysis
    :caption: Contents:
 
    week01/index
-   another_subject/index
-   example/index
+   week02/index
+   week03/index
