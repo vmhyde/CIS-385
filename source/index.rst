@@ -8,3 +8,4 @@ Data Analysis
    week01/index
    week02/index
    week03/index
+   week04/index
