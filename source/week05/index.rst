@@ -63,9 +63,13 @@ Signed up and started a Google Ads Campaign (not completed as it costs to finish
 
 Reading, Videos, & Additional Research (2 Hours)
 -------------------------------------------------
+
 1. Google Analytics Course Content (`Lesson 3 <https://analytics.google.com/analytics/academy/course/6/unit/3/lesson/1>`_)
+
 2. Google Analytics Course Content (`Lesson 4 <https://analytics.google.com/analytics/academy/course/6/unit/4/lesson/1>`_)
+
 2. Reading/Viewing (`Campaign Data <https://www.bounteous.com/>`_)
+
 3. Reading (`Best Practices <https://support.google.com/analytics/answer/1037445?hl=en>`_)
 
 Documentation, Organization and Final Review of Content (1 hour)
