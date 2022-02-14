@@ -12,8 +12,6 @@ Google Analytics Basic Reports (Videos, Course Content and Course Reading) (3 ho
 .. image:: lesson04.png
    :width: 50%
 
-.. image:: certificateofcompletion.png
-   :width: 50%
 
 
 Notes,Assessments, and Weekly Meeting (3 hours)
