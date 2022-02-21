@@ -66,10 +66,14 @@ become stressful to a team can be reduced by implementing such practices, leavin
 Schedule Preparation for next week (REPORT 7) (30 mins)
 -------------------------------------------------------
 *Tuesday & Wednesday: Module 3*
+
+
 *Thursday & Friday: Module 4*
+
+
 *Saturday & Sunday: Module 5*
 
-Simulation Project will begin in Report 8 and end in Report 13 (Module 6). The weekly map is displayed below.
+**Simulation Project will begin in Report 8 and end in Report 13 (Module 6). The weekly map is displayed below.**
 
 .. image:: capstone.png
    :width: 50%
