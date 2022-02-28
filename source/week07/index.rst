@@ -56,8 +56,14 @@ terminology and descriptions sound similar, it is vital to properly differentiat
 with a team. These practices and processes are put into place to create a consistent and well executed plan and product release.
 
 
-Updated Time Line/Plan for Week and Remainder of Term
+Updated Time Line/Plan for Week and Remainder of Term (30 mins)
 ------------------------------------------------------
 **Week 08** Module 4, 5 and 6
 
+.. image:: mod3mod4.png
+   :width: 50%
+
 **Week 09 - Week 14** Module 7-13
+
+Total Approximate Weekly Time Commitment: 8-9 Hours
+----------------------------------------------------
