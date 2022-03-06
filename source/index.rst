@@ -13,3 +13,4 @@ Data Analysis
    NEW SUBJECT/index
    week06/index
    week07/index
+   week08/index
