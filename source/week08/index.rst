@@ -64,7 +64,7 @@ also had an interactive discussion with a development team to see how those conv
 
 **Job Posting- Responsibilities**
 
-.. image:: responsibilities.png
+.. image:: responsibilites.png
    :width: 50%
 
 **Email Example- Interview Offer**
