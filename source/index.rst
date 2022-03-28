@@ -14,3 +14,5 @@ Data Analysis
    week06/index
    week07/index
    week08/index
+   week09/index
+   week10/index
