@@ -42,9 +42,11 @@ Reading, Quiz and Weekly Meeting (2 hours)
 
 **Reading**
 
-Brain Hub (`How to Plan a Sprint <https://brainhub.eu/library/organize-scrum-sprint/>`_)
-Agile Training (`Agile Backlogs <https://www.atlassian.com/agile/scrum/backlogs>`_)
-LucidChart (`Sprint Planning <https://www.lucidchart.com/blog/how-to-run-a-sprint-planning-meeting>`_)
+1.) Brain Hub (`How to Plan a Sprint <https://brainhub.eu/library/organize-scrum-sprint/>`_)
+
+2.) Agile Training (`Agile Backlogs <https://www.atlassian.com/agile/scrum/backlogs>`_)
+
+3.) LucidChart (`Sprint Planning <https://www.lucidchart.com/blog/how-to-run-a-sprint-planning-meeting>`_)
 
 Total Approximate Weekly Time Commitment: 8-9 Hours
 ----------------------------------------------------
